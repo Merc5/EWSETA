@@ -1,3 +1,3 @@
 # EWSETA
 
-Melsoft Cademy Capstone Project (Solo)
+Melsoft Academy Capstone Project (Solo)
